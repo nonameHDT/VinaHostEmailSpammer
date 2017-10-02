@@ -1,0 +1,9 @@
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\bin\Release\VinaHostEmailSpammer.exe.config
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\bin\Release\VinaHostEmailSpammer.exe
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\bin\Release\VinaHostEmailSpammer.pdb
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\obj\Release\VinaHostEmailSpammer.frmMain.resources
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\obj\Release\VinaHostEmailSpammer.Properties.Resources.resources
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\obj\Release\VinaHostEmailSpammer.csproj.GenerateResource.Cache
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\obj\Release\VinaHostEmailSpammer.csproj.CoreCompileInputs.cache
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\obj\Release\VinaHostEmailSpammer.exe
+C:\Users\Dao Xuan Hung\Documents\Visual Studio 2017\Projects\VinaHostEmailSpammer\VinaHostEmailSpammer\obj\Release\VinaHostEmailSpammer.pdb
